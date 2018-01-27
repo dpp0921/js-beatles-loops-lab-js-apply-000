@@ -28,7 +28,7 @@ function iLoveTheBeatles(number){
     do{
       array.push('I love the Beatles!')
       i++;
-    } while( i < number )
+    } while( i <= number )
   } else if(number == 17){
     array.push('I love the Beatles!')
   }
